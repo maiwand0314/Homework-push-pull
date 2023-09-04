@@ -17,6 +17,8 @@ import java.io.*;
          char[] charArray2 = word2.toCharArray();
 
 // YO YO YO AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+         // ENDRING NR. 2
          Arrays.sort(charArray1);
          Arrays.sort(charArray2);
 
