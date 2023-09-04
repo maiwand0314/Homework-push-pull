@@ -16,8 +16,7 @@ import java.io.*;
          char[] charArray1 = word1.toCharArray();
          char[] charArray2 = word2.toCharArray();
 
-         // Hallo test dette er en endring
-
+// YO YO YO
          Arrays.sort(charArray1);
          Arrays.sort(charArray2);
 
