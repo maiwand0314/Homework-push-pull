@@ -27,5 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+<<<<<<< HEAD
 /Homework-push-pull.iml
 /Lecture-2-backendprogrammering.iml
+=======
+/backend.iml
+>>>>>>> 73f5a53 (sdnsds)
